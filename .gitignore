@@ -1,0 +1,11 @@
+# Build artifacts
+backend/target/
+backend/build/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Secrets and environment variables
+.env
+backend/src/main/resources/application.properties
+*.log
